@@ -1,0 +1,14 @@
+{
+    "Images":
+    [
+        {"URL":"img/01.jpg", "Caption":"1 - Honey Yellow (Unavailable)"},
+        {"URL":"img/02.jpg", "Caption":"2 - Azure Blue (Available)"},
+        {"URL":"img/03.jpg", "Caption":"3 - Emerald Green (Available)"},
+        {"URL":"img/04.jpg", "Caption":"4 - Sandy Brown (Available)"},
+        {"URL":"img/05.jpg", "Caption":"5 - Nardo Gray (Available)"},
+        {"URL":"img/06.jpg", "Caption":"6 - Sky Blue (Unavailable)"},
+        {"URL":"img/07.jpg", "Caption":"7 - Mint Green (Available)"},
+        {"URL":"img/08.jpg", "Caption":"8 - Crepe Pink (Unavailable)"},
+        {"URL":"img/09.jpg", "Caption":"9 - Steel Gray (Available)"} 
+    ]
+}

@@ -1,0 +1,81 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: black;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
+
+.navbar-collapse{
+    color: black;
+    color: black;
+    flex-grow: unset;
+}
+
+.navbar .navbar-nav .nav-link:hover{
+    background-color: darkgreen;
+    color: black;
+}
+
+.navbar .navbar-nav .nav-link:active{
+    background-color: darkgreen;
+    color: black;
+    font-weight: bold;
+}
+
+.intro{
+    display: flex;
+    align-items: center;
+    height: 60vh;
+}
+
+.intro img{
+    width: 100%;
+    border-radius: 50%;
+    border: 3px solid black;
+    overflow: hidden;
+}
+
+.name{
+    color: darkgreen;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.position{
+    font-size: 70px;
+    text-align: center;    
+}
+
+.location{
+    font-size: 65px;
+    text-align: center;   
+    color: darkgreen; 
+}
+
+.description{
+    font-size: 20px;
+    text-align: center;
+}
+
+@media(max-width:756px) {
+    .position{
+        font-size: 35px;
+        text-align: center;    
+    }
+    
+    .location{
+        font-size: 30px;
+        text-align: center;   
+        color: darkgreen; 
+    }
+
+    .intro img{
+        width: 400px;
+        border-radius: 50%;
+        border: 3px solid black;
+        overflow: hidden;
+    }
+}
